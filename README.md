@@ -3,6 +3,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/9d637ad2-7c06-4e8c-a2b2-7e3bae3e1ad4/mini.png)](https://insight.sensiolabs.com/projects/9d637ad2-7c06-4e8c-a2b2-7e3bae3e1ad4)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbouiboui%2Fpokket-php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbouiboui%2Fpokket-php?ref=badge_shield)
 
 PHP SDK to access the [Pocket](https://getpocket.com) [API](https://getpocket.com/developer/docs/overview) (v3, currently).
 
@@ -121,3 +122,6 @@ This project uses the following open source projects
 
 [link-packagist]: https://packagist.org/packages/bouiboui/pokket-php
 [link-author]: https://github.com/bouiboui
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbouiboui%2Fpokket-php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbouiboui%2Fpokket-php?ref=badge_large)
